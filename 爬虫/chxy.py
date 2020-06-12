@@ -12,7 +12,7 @@ cursor = mydb.cursor()
 f = open('spider.txt', 'w', encoding="utf-8")
 
 i = 1
-while i < 10:
+while i < 8:
      #print('当前读取到：' + str(i) + "页面 \n\n")
      listPage = requests.get('https://www.chu.edu.cn/xxgk/1617/list' + str(i) + '.htm')
      listPage.encoding = 'utf-8'
