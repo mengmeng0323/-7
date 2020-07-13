@@ -11,4 +11,3 @@ payload = {'action':'add_course','data':'''{
 }'''}
 
 r=requests.post('http://127.0.0.1/api/mgr/sq_mgr/',headers= header,data=payload)
-print(r.text)

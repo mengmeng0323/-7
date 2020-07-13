@@ -32,7 +32,7 @@ contentUrl = 'https://testerhome.com' + href
 content = requests.get(contentUrl, timeout=5)
 content.encoding = 'utf-8'
 #传给解析器
-content = BeautifulSoup(content.text, 'lxml').find("div",class_="col-md-9")
+content = BeautifulSoup(content.text, 'lxml').find("div",class_="col-md-9").get_text().strip()
 print(content)
 
 # while True:

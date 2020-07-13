@@ -1,7 +1,7 @@
 import requests
 import sys
 from bs4 import BeautifulSoup
-
+#lllllll
 
 import MySQLdb
 #mydb = MySQLdb.connect(host='localhost',user='root',passwd='root',db='python')
