@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>叶萌测试页面</title>
+<script crossorigin="anonymous" integrity="sha384-OZmxTjkv7EQo5XDMPAmIkkvywVeXw59YyYh6zq8UKfkbor13jS+5p8qMTBSA1q+F" src="https://lib.baomitu.com/vue/2.6.11/vue.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 引入样式 -->
+<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+<!-- 引入组件库 -->
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<style>
+  .el-progress {
+    margin:10px 10px;
+  }
+</style>
+</head>
+<body>
+
+<div id="app">
+  <el-table :data="tableData" stripe border>
+      <el-table-column prop="name" label="姓名"></el-table-column>
+      <el-table-column prop="bug_num" label="bug数量"></el-table-column>
+      <el-table-column label="柱图">
+        <template slot-scope="scope">
+          <el-progress :text-inside="true" :stroke-width="30" :percentage="scope.row.pre_num" :status="scope.row.pre_num < 10 ? 'success' : 'warning'"></el-progress>
+        </template>
+      </el-table-column>
+      <el-table-column prop="pre" label="bug占比"></el-table-column>
+      <el-table-column label="emoji">
+        <template slot-scope="scope">
+          <el-button type="success" icon="el-icon-check" circle v-if="scope.row.emoji != 1"></el-button>
+          <el-button type="warning" icon="el-icon-star-off" circle v-else></el-button>
+        </template>
+      </el-table-column>
+  </el-table>
+</div>
+<script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return {
+          tableData: {{tableData}}
+        }
+      }
+    })
+</script>
+</body>
+</html>
+

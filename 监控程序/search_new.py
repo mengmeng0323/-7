@@ -52,7 +52,7 @@ def sendEmail(newTitle, href):
         content = template.render(newTitle=newTitle, article=article)
 
         smtpObj = smtplib.SMTP_SSL('smtp.qq.com', 465)
-        smtpObj.login(my_sender, 'vpstivazakiqdigb')
+        smtpObj.login(my_sender, 'uhhlrwkrvzendjbc')
 
         msg = MIMEText(content, 'html', 'utf-8')
         msg['From'] = formataddr(["FromRunoob", my_sender])  # 括号里的对应发件人邮箱昵称、发件人邮箱账号
