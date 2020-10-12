@@ -35,7 +35,7 @@ def getData (sql):
         print(Exception)
 
 
-#获取每个人的总bug数
+#获取每个人的总bug数3
 sql = "SELECT b.realname, COUNT(a.title) bug_num FROM zt_bug a left JOIN zt_user b on a.resolvedBy = b.account  WHERE a.`status` != 'active' GROUP BY b.realname ORDER BY COUNT(a.title) asc"
 allUserAllBug = getData(sql)
 sql = "SELECT COUNT(title) all_bug_num FROM zt_bug WHERE `status` != 'active'"
