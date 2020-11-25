@@ -1,82 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="372a1ce8-75a0-48f8-a903-b31576bae7d1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RF框架/testLib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RF框架/关键字库.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/禅道程序/lian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/禅道程序/model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/module3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass/切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数mian/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数mian/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数mian/调用student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数mian/跑马灯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/定义类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RF框架/笔记2.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RF框架/笔记2.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/spider.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/spider.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/监控程序/search_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/监控程序/search_new.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/禅道程序/zentao.py" beforeDir="false" afterPath="$PROJECT_DIR$/禅道程序/zentao.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zentao.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/禅道程序/zentao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-              <folding>
-                <element signature="e#71#85#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lian.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/禅道程序/lian.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="关键字库.robot" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RF框架/关键字库.robot">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testLib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RF框架/testLib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <element signature="e#54#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="model.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/禅道程序/model.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,95 +63,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/demo1.py" />
-        <option value="$PROJECT_DIR$/re模块/demo1.py" />
-        <option value="$PROJECT_DIR$/selenium/demo1.py" />
-        <option value="$PROJECT_DIR$/selenium11/demo1.py" />
-        <option value="$PROJECT_DIR$/selenium11/查找定位元素.py" />
-        <option value="$PROJECT_DIR$/爬虫/demo1.py" />
-        <option value="$PROJECT_DIR$/sql123.py" />
-        <option value="$PROJECT_DIR$/爬虫/excel_demo.py" />
-        <option value="$PROJECT_DIR$/爬虫/crawler_test.py" />
-        <option value="$PROJECT_DIR$/爬虫/chxy.py" />
-        <option value="$PROJECT_DIR$/requests库/day1.py" />
-        <option value="$PROJECT_DIR$/requests库/test4.py" />
-        <option value="$PROJECT_DIR$/requests库/test3.py" />
-        <option value="$PROJECT_DIR$/requests库/test5.py" />
-        <option value="$PROJECT_DIR$/requests库/day1-百度首页.py" />
-        <option value="$PROJECT_DIR$/requests库/test2.py" />
-        <option value="$PROJECT_DIR$/监控程序/html.txt" />
-        <option value="$PROJECT_DIR$/监控程序/demo1.py" />
-        <option value="$PROJECT_DIR$/selenium11/day2/2设置元素等待.py" />
-        <option value="$PROJECT_DIR$/selenium11/day2/2隐式等待.py" />
-        <option value="$PROJECT_DIR$/selenium11/day2/3显示等待.py" />
-        <option value="$PROJECT_DIR$/selenium11/day2/4xpath高级用法.py" />
-        <option value="$PROJECT_DIR$/监控程序/email.html" />
-        <option value="$PROJECT_DIR$/selenium11/作业.py" />
-        <option value="$PROJECT_DIR$/selenium11/day3/1控制浏览器操作.py" />
-        <option value="$PROJECT_DIR$/selenium11/day3/2webdriver常用方法.py" />
-        <option value="$PROJECT_DIR$/selenium11/day3/3css高级语法.py" />
-        <option value="$PROJECT_DIR$/selenium11/day3/test.html" />
-        <option value="$PROJECT_DIR$/RF框架/baiduTest.robot" />
-        <option value="$PROJECT_DIR$/RF框架/rfsuite.robot" />
-        <option value="$PROJECT_DIR$/禅道程序/search_new.py" />
-        <option value="$PROJECT_DIR$/禅道程序/send.html" />
-        <option value="$PROJECT_DIR$/监控程序/search_new.py" />
-        <option value="$PROJECT_DIR$/禅道程序/ztemail.html" />
-        <option value="$PROJECT_DIR$/RF框架/笔记2.robot" />
-        <option value="$PROJECT_DIR$/禅道程序/email.html" />
-        <option value="$PROJECT_DIR$/禅道程序/zentao.py" />
-        <option value="$PROJECT_DIR$/禅道程序/model.html" />
-        <option value="$PROJECT_DIR$/禅道程序/lian.py" />
-        <option value="$PROJECT_DIR$/RF框架/关键字库.robot" />
-        <option value="$PROJECT_DIR$/RF框架/testLib.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="292" />
-    <option name="y" value="5" />
-    <option name="width" value="1720" />
-    <option name="height" value="1380" />
-  </component>
+  <component name="ProjectId" id="1jUOZJqelYqC3iBFvpEtvxR7GbD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="-7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-7" type="462c0819:PsiDirectoryNode" />
-              <item name="监控程序" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-7" type="462c0819:PsiDirectoryNode" />
-              <item name="禅道程序" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../erp" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -192,20 +84,8 @@
       <recent name="D:\software\pycharm\exercise\re模块" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.lian">
-    <configuration name="查找定位元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.student">
+    <configuration name="跑马灯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,17 +93,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数mian" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium11/查找定位元素.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数mian/跑马灯.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="1--元素定位" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="定义类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,17 +114,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium11/1--元素定位.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面向对象/定义类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="chxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,17 +135,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/chxy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pass/day4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="lian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="调用student (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,17 +156,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/禅道程序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数mian" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/禅道程序/lian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数mian/调用student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="search_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,17 +177,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/监控程序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数mian" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/监控程序/search_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数mian/student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="zentao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="调用student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,32 +198,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/禅道程序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数mian" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/禅道程序/zentao.py" />
+      <option name="SCRIPT_NAME" value="C:\project1\-7\函数mian\调用student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.查找定位元素" />
-      <item itemvalue="Python.1--元素定位" />
-      <item itemvalue="Python.zentao" />
-      <item itemvalue="Python.search_new" />
-      <item itemvalue="Python.lian" />
+      <item itemvalue="Python.student" />
+      <item itemvalue="Python.调用student (1)" />
+      <item itemvalue="Python.day4" />
+      <item itemvalue="Python.跑马灯" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lian" />
-        <item itemvalue="Python.zentao" />
-        <item itemvalue="Python.search_new" />
-        <item itemvalue="Python.1--元素定位" />
+        <item itemvalue="Python.跑马灯" />
+        <item itemvalue="Python.调用student (1)" />
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python.day4" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -357,30 +255,6 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="234" y="4" width="1376" height="1104" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49706227" visible="true" weight="0.17238806" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295964" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13271604" />
-      <window_info id="Structure" order="1" sideWeight="0.50293773" side_tool="true" weight="0.14126612" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32964823" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39798206" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
-    </layout>
-  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -391,321 +265,67 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加1" />
     <MESSAGE value="111" />
     <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="4" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../python/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10670">
-          <caret line="515" selection-start-line="515" selection-end-line="515" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/spider.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/python/ym520.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests库/test5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests库/day1-百度首页.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests库/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python/Lib/email/header.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="179" column="8" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python/Lib/email/mime/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python/Lib/email/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests库/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/监控程序/html.txt" />
-    <entry file="file://$PROJECT_DIR$/监控程序/demo1.py" />
-    <entry file="file://$PROJECT_DIR$/requests库/erp1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/监控程序/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/requests库/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/3-另一种元素定位方法.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day2/3显示等待.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day2/4xpath高级用法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day2/1获取断言信息.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day2/2隐式等待.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day3/1控制浏览器操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="64" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day3/2webdriver常用方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day3/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day3/3css高级语法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/1--元素定位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/2--匹配元素列表.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/查找定位元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RF框架/baiduTest.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RF框架/rfsuite.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/excel_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/yemeng.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/crawler_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="52" column="68" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/禅道程序/search_new.py" />
-    <entry file="file://$PROJECT_DIR$/RF框架/笔记2.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/禅道程序/send.html" />
-    <entry file="file://$PROJECT_DIR$/监控程序/email.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/禅道程序/ztemail.html" />
-    <entry file="file://$PROJECT_DIR$/禅道程序/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/监控程序/search_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="54" column="52" lean-forward="true" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/chxy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="19" selection-start-line="40" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium11/day1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/禅道程序/model.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/禅道程序/lian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RF框架/关键字库.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RF框架/testLib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#54#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/禅道程序/zentao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="e#71#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1362" height="370" key="GridCell.Tab.0.bottom" timestamp="1606181801859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606181801859" />
+    <state width="1362" height="454" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605017070534" />
+    <state width="1362" height="370" key="GridCell.Tab.0.center" timestamp="1606181801859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="370" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606181801859" />
+    <state width="1362" height="454" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605017070534" />
+    <state width="1362" height="370" key="GridCell.Tab.0.left" timestamp="1606181801859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="370" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606181801859" />
+    <state width="1362" height="454" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605017070534" />
+    <state width="1362" height="370" key="GridCell.Tab.0.right" timestamp="1606181801859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="370" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606181801859" />
+    <state width="1362" height="454" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605017070534" />
+    <state width="1362" height="342" key="GridCell.Tab.1.bottom" timestamp="1605605409593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605605409593" />
+    <state width="1362" height="342" key="GridCell.Tab.1.center" timestamp="1605605409593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605605409593" />
+    <state width="1362" height="342" key="GridCell.Tab.1.left" timestamp="1605605409593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605605409593" />
+    <state width="1362" height="342" key="GridCell.Tab.1.right" timestamp="1605605409593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605605409593" />
+    <state x="622" y="153" key="SettingsEditor" timestamp="1605497073813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="153" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605497073813" />
+    <state x="517" y="383" key="Vcs.Push.Dialog.v2" timestamp="1603855379620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="383" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603855379620" />
   </component>
 </project>

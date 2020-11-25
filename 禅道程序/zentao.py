@@ -39,7 +39,7 @@ def getData (sql):
 sql = "SELECT b.realname, COUNT(a.title) bug_num FROM zt_bug a left JOIN zt_user b on a.resolvedBy = b.account  WHERE a.`status` != 'active' GROUP BY b.realname ORDER BY COUNT(a.title) asc"
 allUserAllBug = getData(sql)
 sql = "SELECT COUNT(title) all_bug_num FROM zt_bug WHERE `status` != 'active'"
-allBug = getData(sql)[0][0]
+allBug = getData(sql)[0][0]  
 
 f = open("./model.html", 'r', encoding='utf-8')
 content = f.read()
